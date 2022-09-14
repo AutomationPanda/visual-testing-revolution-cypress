@@ -1,0 +1,24 @@
+{
+  "name": "visual-testing-revolution-cypress",
+  "version": "1.0.0",
+  "description": "The Visual Testing Revolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutomationPanda/visual-testing-revolution-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutomationPanda/visual-testing-revolution-cypress/issues"
+  },
+  "homepage": "https://github.com/AutomationPanda/visual-testing-revolution-cypress#readme",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.27.1",
+    "cypress": "^10.8.0",
+    "playwright-webkit": "^1.25.2"
+  }
+}
