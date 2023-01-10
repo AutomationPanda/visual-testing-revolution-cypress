@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/AutomationPanda/visual-testing-revolution-cypress#readme",
   "devDependencies": {
-    "@applitools/eyes-cypress": "^3.27.1",
-    "cypress": "^10.8.0",
-    "playwright-webkit": "^1.25.2"
+    "@applitools/eyes-cypress": "^3.28.1",
+    "cypress": "^12.3.0",
+    "playwright-webkit": "^1.29.2"
   }
 }
